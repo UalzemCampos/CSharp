@@ -1,0 +1,10 @@
+C:\Users\ualzemm\Desktop\CURSO C#.NET\interfaceUsuario\interfaceUsuario\bin\Debug\interfaceUsuario.exe.config
+C:\Users\ualzemm\Desktop\CURSO C#.NET\interfaceUsuario\interfaceUsuario\bin\Debug\interfaceUsuario.exe
+C:\Users\ualzemm\Desktop\CURSO C#.NET\interfaceUsuario\interfaceUsuario\bin\Debug\interfaceUsuario.pdb
+C:\Users\ualzemm\Desktop\CURSO C#.NET\interfaceUsuario\interfaceUsuario\obj\Debug\interfaceUsuario.csprojAssemblyReference.cache
+C:\Users\ualzemm\Desktop\CURSO C#.NET\interfaceUsuario\interfaceUsuario\obj\Debug\interfaceUsuario.cadastroclientes.resources
+C:\Users\ualzemm\Desktop\CURSO C#.NET\interfaceUsuario\interfaceUsuario\obj\Debug\interfaceUsuario.Properties.Resources.resources
+C:\Users\ualzemm\Desktop\CURSO C#.NET\interfaceUsuario\interfaceUsuario\obj\Debug\interfaceUsuario.csproj.GenerateResource.cache
+C:\Users\ualzemm\Desktop\CURSO C#.NET\interfaceUsuario\interfaceUsuario\obj\Debug\interfaceUsuario.csproj.CoreCompileInputs.cache
+C:\Users\ualzemm\Desktop\CURSO C#.NET\interfaceUsuario\interfaceUsuario\obj\Debug\interfaceUsuario.exe
+C:\Users\ualzemm\Desktop\CURSO C#.NET\interfaceUsuario\interfaceUsuario\obj\Debug\interfaceUsuario.pdb
